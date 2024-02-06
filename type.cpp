@@ -1,14 +1,14 @@
 #include<iostream> 
-#include<math.cpp>
-template<T>
+#include</home/tensem/MathF/math.cpp>
+template<typename T>
 class Numbers:protected Umath_methods{
 
 }; 
-template<T>
+template<typename T>
 class listArray{
 protected:
 	int size;
-	T data[size] ={};
+	typename T data[size] ={};
 	Array(int size){
 		this->size =size;
 	}
@@ -18,18 +18,15 @@ void print(){
 	} 
 } 	 
 };
-template<T>
+template<typename T>
 class Hash{
 	
 };
-template<T>
+template<typename T>
 class Range{
 	
 };
-template<T>
+template<typename T>
 class Set{
 	
-};
-class Block{
-	
-};     
+}; 

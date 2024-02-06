@@ -1,5 +1,5 @@
-#include<type.cpp>
-template<T>
+#include</home/tensem/MathF/type.cpp/listArray>
+template<typename T>
 class Umath_methods{
 
 protected:
