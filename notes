@@ -1,0 +1,10 @@
+classes 
+Array Bool Glob Hash Null Number(Complex,Fraction Gauss Mod Number Polynomial Quadratic) Range Set String 
+methods 
+avg,qw, binsplit, binary_exp gcd lcm linear_rec linear_recmod
+sum prod max min arithmetic_mean geometric_mean harmonic_mean
+solve_seq solve_rec_seq linear_recurrence_matrix
+linear_recurrence linear_recurrence_mod product_tree
+remainders batch_gcd batch_invmod gcd_factors 
+smooth_numbers seq chinese range_sum range_map 
+map num2percent  
