@@ -1,5 +1,5 @@
 classes 
-Array Bool Glob Hash Null Number(Complex,Fraction Gauss Mod Number Polynomial Quadratic) Range Set String 
+Array Bool Hash Number(Complex,Fraction Gauss Mod Number Polynomial Quadratic) Range Set 
 methods 
 avg,qw, binsplit, binary_exp gcd lcm linear_rec linear_recmod
 sum prod max min arithmetic_mean geometric_mean harmonic_mean
