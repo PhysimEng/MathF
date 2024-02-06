@@ -3,55 +3,55 @@ template<T>
 class Umath_methods{
 
 protected:
-	float avg(Array<T> l){
+	float avg(listArray<T> l){
 		
 	}
-	//Array binary_exp(int c, int x, int n , Array<T> l){}  
-	int chinese(Array<T> l){
+	//listArray binary_exp(int c, int x, int n , listArray<T> l){}  
+	int chinese(listArray<T> l){
 		
 	}
-	int gcd(Array<T> l){
+	int gcd(listArray<T> l){
 		
 	}
-	Array<T>  gcd_factors(int n, Array<T> l) {
+	listArray<T>  gcd_factors(int n, listArray<T> l) {
 		
 	} 
-	float  geometric_mean(Array<T> l){
+	float  geometric_mean(listArray<T> l){
 	   			
 	}
-	float harmonic_mean(Array<T> l){
+	float harmonic_mean(listArray<T> l){
 	   			
 	 }
-	int lcm(Array<T> l){
+	int lcm(listArray<T> l){
 		
 	}
-	Array<T> linear_rec(Array<T> ker, Array<T> init, int from, int to){
+	listArray<T> linear_rec(listArray<T> ker, listArray<T> init, int from, int to){
 	    			
 	}    	
-	Array<T> linear_recmod(Array<T> ker, Array<T> init, int n, int m){
+	listArray<T> linear_recmod(listArray<T> ker, listArray<T> init, int n, int m){
 			
 	}
-	Array<Array<T>> linear_recurrence_matrix(Array<T> l){
+	listArray<listArray<T>> linear_recurrence_matrix(listArray<T> l){
 			
 	}
-	T max(Array<T> l){
+	T max(listArray<T> l){
 		
 	}  
-	T min(Array<T> l){
+	T min(listArray<T> l){
 			
 	}
 	T num2percent(T num, int min, int max){
 		
 	}
-	T prod(Array<T> l){
+	T prod(listArray<T> l){
 	}
 	T range_sum(int from, int to, int step){
 		
 	}
-	int remainders(int n, Array<T> l){
+	int remainders(int n, listArray<T> l){
 		
 	}
-	T sum(Array<T> l){
+	T sum(listArray<T> l){
 		
 	}          
 }; 
