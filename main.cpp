@@ -1,6 +1,5 @@
 #include<iostream>
-#include</home/tensem/MathF/type.cpp>
-#include</home/tensem/MathF/math.cpp>
+#include</home/tensem/MathF/types.cpp>
 
 int main(){
 	
